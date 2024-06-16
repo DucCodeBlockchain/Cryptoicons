@@ -1,0 +1,19 @@
+<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="24" height="24" fill="#3067F0" />
+    <g clip-path="url(#WazirXBadge_a)">
+        <path
+            d="M4.696 18.1144H19.304V16.743H4.696V18.1144ZM7.47824 9.67056L4 7.14303L4.63952 14.6859L7.47824 9.67056ZM9.5652 15.3715H19.3025L20 7.14303L9.5652 15.3715ZM15.8261 9.47303L7.64432 15.3715H5.39128L9.54856 8.65709L12.2022 4.40015L15.8261 9.47303Z"
+            fill="white"
+        />
+    </g>
+    <defs>
+        <clipPath id="WazirXBadge_a">
+            <rect
+                width="16"
+                height="13.7143"
+                fill="white"
+                transform="translate(4 4.40015)"
+            />
+        </clipPath>
+    </defs>
+</svg>

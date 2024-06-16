@@ -1,0 +1,18 @@
+<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#Waves_a)">
+        <path
+            d="M2.00037 12L12.0002 2.00012L22.0001 12L12.0002 21.9999L2.00037 12Z"
+            fill="#0055FE"
+        />
+    </g>
+    <defs>
+        <clipPath id="Waves_a">
+            <rect
+                width="20"
+                height="20"
+                fill="white"
+                transform="translate(2 2)"
+            />
+        </clipPath>
+    </defs>
+</svg>

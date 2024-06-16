@@ -1,0 +1,43 @@
+<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+        d="M11.9623 2L3.30005 7V17L11.9623 22L20.6245 17V7L11.9623 2Z"
+        fill="url(#CryptoCom_a)"
+    />
+    <path d="M11.9623 2L3.30005 7V17L11.9623 22V2Z" fill="url(#CryptoCom_b)" />
+    <path
+        d="M15.3394 6.32019H8.54119L7.75172 9.78512H16.1727L15.3394 6.32019ZM9.74732 14.5439V12.2413L7.72979 10.9693L5.4491 12.6579L8.56312 18.0746H9.81311L11.2824 16.693V16.0132L9.74732 14.5439Z"
+        fill="white"
+    />
+    <path
+        d="M14.1552 10.3114H9.76929L10.493 12.2412L10.2737 14.4122H13.6508L13.4315 12.2412L14.1552 10.3114Z"
+        fill="white"
+    />
+    <path
+        d="M16.1728 10.9473L14.1772 12.2412V14.5438L12.6641 16.0131V16.6929L14.1334 18.0526H15.3614L18.4536 12.6578L16.1728 10.9473Z"
+        fill="white"
+    />
+    <defs>
+        <linearGradient
+            id="CryptoCom_a"
+            x1="11.9546"
+            y1="2"
+            x2="11.9546"
+            y2="21.9877"
+            gradientUnits="userSpaceOnUse"
+        >
+            <stop stop-color="#25376C" />
+            <stop offset="1" stop-color="#1F1F49" />
+        </linearGradient>
+        <linearGradient
+            id="CryptoCom_b"
+            x1="7.62788"
+            y1="21.9877"
+            x2="7.62788"
+            y2="2"
+            gradientUnits="userSpaceOnUse"
+        >
+            <stop stop-color="#25376C" />
+            <stop offset="1" stop-color="#1F1F49" />
+        </linearGradient>
+    </defs>
+</svg>
